@@ -6,6 +6,7 @@ Pemisahan antara data numerik dan kategorikal ini penting dalam proses analisis 
 
 **Univariate Analysis**
 Data Unkown terlalu mendominasi dan perlu penangan lebih lanjut dan akan dilakukan di iterasi sleanjutnya.
+
 **Multivariate Analysis**
 Dari corelation heatmap disamping didapatkanlah bahwa 
 pdays dan previous: 2 Features ini memiliki nilai korelasi yang positif dan cukup tingi dibanding dengan features lainnya. acdan merupakan korelasi positif.  atau bisa disebut Strong potensial features.
